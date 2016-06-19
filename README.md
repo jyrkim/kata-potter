@@ -1,2 +1,7 @@
 # kata-potter
-KataPotter, Java method that calculates discounted price for set of books as described in http://codingdojo.org/cgi-bin/index.pl?KataPotter
+KataPotter, is a method called: <a href="https://github.com/jyrkim/kata-potter/blob/master/src/main/java/katapotter/ShoppingBasket.java"> price(int[] shoppingBasket)</a> that calculates discounted price for set of books as described in  <a href="http://codingdojo.org/cgi-bin/index.pl?KataPotter">Coding Dojo KataPotter exercise</a>
+
+This is a Java Maven project. After downloading you can build the application with command <b>mvn package</b> 
+
+There are some <a href="https://github.com/jyrkim/kata-potter/blob/master/src/test/java/katapotter/ShoppingBasketTest.java">tests</a> that run when the application is build.
+
